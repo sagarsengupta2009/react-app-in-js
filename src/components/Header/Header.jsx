@@ -1,6 +1,5 @@
-// import reactLogo from "./assets/react.svg";
-// import viteLogo from "/vite.svg";
-import reactImage from "../assets/react-core-concepts.png";
+import reactImage from "../../assets/react-core-concepts.png";
+import './Header.css';
 
 const reactDescriptions = ['Fundamental', 'Crucial', 'Core'];
 
